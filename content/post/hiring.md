@@ -9,13 +9,14 @@ draft: false
 Hiring is very hard. Somehow you have to separate the wheat from the chaff while minimizing the cost of doing that on your team. The cost of a bad hire is super high. So you have to also maximize the likelihood that the hire will be a successful one. You also need to be respectful to the candidate and not waste their time. What is discussed here is specifically for an engineering hire, but could be adapted to any hire with a few modifications.
 
 Characteristics of a good hiring process:
-- Respectful of team's time
-- Respectful of the candidate's time
-- Determines the technical capabilities of the candidate
-- Gauge the experience of the candidate
-- Judge if the candidate is a good cultural fit
-- Is consistent while scaling
-- Correlates as closely as possible with day to day work performance
+
+* Respectful of team's time
+* Respectful of the candidate's time
+* Determines the technical capabilities of the candidate
+* Gauge the experience of the candidate
+* Judge if the candidate is a good cultural fit
+* Is consistent while scaling
+* Correlates as closely as possible with day to day work performance
 
 
 ## Fail fast
