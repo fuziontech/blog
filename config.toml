@@ -15,7 +15,7 @@ disqusShortname = "sotu-dev"
 [params]
 title = "I'm James Greenhill"
 author = "James Greenhill"
-description = "Call me Jams"
+description = "Call me Jams. This is the State of The ∪ blog"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"

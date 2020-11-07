@@ -3,12 +3,12 @@ title = "About"
 description = "Jimmy"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "James Greenhill"
 +++
 
 Hi there 👋
 I'm James Greenhill.
-I'm Kind of a data geek.
+I'm kind of a data geek.
 
 ## You may remember me from such films as:
 * [Uber ATG](https://www.uber.com/us/en/atg/)
