@@ -123,6 +123,7 @@ So far this is what we got:
 3. Debrief
 
 This accomplishes most of the goals we set out towards:
+
 - Respectful of team’s time
 - Respectful of the candidate’s time
 - Determines the technical capabilities of the candidate
