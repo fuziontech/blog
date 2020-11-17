@@ -2,7 +2,7 @@
 ---
 title: "Data Quality"
 date: 2020-11-17T00:21:42-08:00
-draft: true
+draft: false 
 ---
 
 "Why Software Is Eating the World" - [Marc Andreessen](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
