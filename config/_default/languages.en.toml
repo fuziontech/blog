@@ -1,0 +1,39 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "State of the Union"
+logo = "img/logo.png"
+description = "My awesome website"
+copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+ [author]
+   name = "James Falcon Greenhill"
+   image = "profile.jpeg"
+   headline = "Adventures in Data, Machine Learning, and Infrastructure"
+   bio = "A little bit about you"
+   links = [
+     { email = "mailto:james@sotu.dev" },
+     { link = "https://sotu.dev/" },
+#     { dev = "https://dev.to/username" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { facebook = "https://facebook.com/username" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+     { github = "https://github.com/fuziontech" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { google = "https://www.google.com/" },
+#     { hashnode = "https://username.hashnode.dev" },
+     { instagram = "https://instagram.com/fuziontech" },
+     { keybase = "https://keybase.io/fuziontech" },
+     { linkedin = "https://linkedin.com/in/fuziontech" },
+#     { mastodon = "https://mastodon.instance/@fuziontech" },
+#     { medium = "https://medium.com/username" },
+     { twitter = "https://twitter.com/fuziontech" },
+   ]

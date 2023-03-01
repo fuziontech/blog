@@ -1,0 +1,31 @@
+baseURL = 'http://sotu.dev/'
+languageCode = 'en-us'
+title = 'State of the Union'
+theme = 'hugotex'
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+disqusShortname = 'sotu-dev'
+
+[author]
+  name = 'James Falcon Greenhill'
+  abstract = "My friends call me Jams. This is the State of the Union."
+  homepage = "https://github.com/fuziontech"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "paraiso-dark" # syntax highlighting style
+
+[Params]
+  darkmode = false # set true if you prefer dark mode
+  twittercard = true
+  opengraph = true
